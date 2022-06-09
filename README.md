@@ -1,2 +1,2 @@
 # curriculo
-Repositório de teste
+Repositório de teste para a disciplina de fund. de informática
